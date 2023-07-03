@@ -6,7 +6,7 @@
  * @accept: set of btyes to be searched for
  *
  * return: if a set is matched - a pointer to the matched byte
- * if no set is matche - NULL
+ * if no set is matched - NULL
  */
 char *_strpbrk(char *s, char *accept)
 {
